@@ -1,6 +1,6 @@
 # ATP Data Modeling
 
-This short project was a an excuse to learn about data visualisation and Machine Learning using Linear Regression in Python using matplotlib, pandas and sk-learn.
+This short project was an excuse to learn about data visualisation and Machine Learning using Linear Regression in Python using matplotlib, pandas and sk-learn.
 ## Description
 
 The code is structured in commented blocks of code. When un-commented, each block visualizes the relationship between a feature and an outcome with a Train and Test score. These scores are numerical values representing how strong the relationship is between the two variables.
