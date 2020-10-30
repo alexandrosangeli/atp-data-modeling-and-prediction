@@ -8,14 +8,14 @@ The code is structured in commented blocks of code. When un-commented, each bloc
 ## Example - Breaking Points Opportunities vs Winnings
 - High scores, strong relationship.
 ```sh   
-Train score: 0.82
-Test score: 0.77
+#Train score: 0.82
+#Test score: 0.77
    ```
 ## Example - Return Games Won vs Winnings
 - Low scores, weak relationship.
 ```sh   
-Train score: 0.07
-Test score: 0.09
+#Train score: 0.07
+#Test score: 0.09
 ```
 
 ### Tip
