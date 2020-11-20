@@ -23,5 +23,6 @@ The scale of the score is 0-1.
 - 0: No relationship at all.
 - 1: Perfect relationship.
 
-
+#### Note
+- I do not own the data used in the code.
 
