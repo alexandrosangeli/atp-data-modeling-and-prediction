@@ -19,7 +19,7 @@ The code is structured in commented blocks of code. When un-commented, each bloc
 ```
 
 ### Tip
-The scale of the score is 0-1.
+The scale of the score is [0,1].
 - 0: No relationship at all.
 - 1: Perfect relationship.
 
